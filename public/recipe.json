@@ -1,0 +1,97 @@
+[
+    {
+      "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+      "recipe_id": 101,
+      "recipe_name": "Chicken Stir Fry",
+      "short_description": "A quick and flavorful stir fry with chicken, vegetables, and soy sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g broccoli",
+        "150 g bell pepper",
+        "100 g onion",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://example.com/images/vegan_buddha_bowl.jpg",
+      "recipe_id": 102,
+      "recipe_name": "Vegan Buddha Bowl",
+      "short_description": "A nutritious bowl with quinoa, roasted vegetables, and tahini dressing.",
+      "ingredients": [
+        "200 g quinoa",
+        "100 g sweet potato",
+        "150 g kale",
+        "50 g avocado",
+        "1 tbsp tahini",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_image": "https://example.com/images/spaghetti_carbonara.jpg",
+      "recipe_id": 103,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "A classic Italian dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "400 g spaghetti",
+        "200 g pancetta",
+        "4 eggs",
+        "100 g parmesan cheese",
+        "2 cloves garlic",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "20 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://example.com/images/avocado_toast.jpg",
+      "recipe_id": 104,
+      "recipe_name": "Avocado Toast",
+      "short_description": "A simple and healthy avocado toast with a twist of lemon and chili flakes.",
+      "ingredients": [
+        "1 avocado",
+        "2 slices whole-grain bread",
+        "1 tsp lemon juice",
+        "1/2 tsp chili flakes",
+        "Pinch of salt"
+      ],
+      "preparing_time": "10 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://example.com/images/beef_tacos.jpg",
+      "recipe_id": 105,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Spiced ground beef served in soft tortillas with fresh toppings.",
+      "ingredients": [
+        "500 g ground beef",
+        "100 g taco seasoning",
+        "200 g tortillas",
+        "100 g lettuce",
+        "50 g cheddar cheese",
+        "50 g salsa"
+      ],
+      "preparing_time": "15 min",
+      "calories": "360 calories"
+    },
+    {
+      "recipe_image": "https://example.com/images/chocolate_brownies.jpg",
+      "recipe_id": 106,
+      "recipe_name": "Chocolate Brownies",
+      "short_description": "Rich and fudgy chocolate brownies with a crispy crust.",
+      "ingredients": [
+        "200 g dark chocolate",
+        "150 g butter",
+        "200 g sugar",
+        "3 eggs",
+        "100 g flour",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "35 min",
+      "calories": "400 calories"
+    }
+  ]
