@@ -1,11 +1,12 @@
+import Navbar from "./components/Navbar/Navbar"
 
 
 function App() {
 
   return (
-    <>
-    <h1>done</h1>
-    </>
+    <div className="container mx-auto">
+    <Navbar />
+    </div>
   )
 }
 
