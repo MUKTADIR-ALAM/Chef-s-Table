@@ -40,7 +40,7 @@ export default function Navbar() {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-md lg:text-3xl">Chef's Table</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -77,7 +77,7 @@ export default function Navbar() {
               />
             </svg>
           </label>
-          <div className="text-4xl bg-[#4ADE80] rounded-full p-2"><CgProfile /></div>
+          <div className="text-4xl bg-primary rounded-full p-2"><CgProfile /></div>
         </div>
       </div>
     </>
